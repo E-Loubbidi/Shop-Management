@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GDMPaymentnew952019" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GDMPaymentnew952019" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GDMPaymentnew952019" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="payment/payment.h" />
+		<Unit filename="payment/payment.txt" />
+		<Unit filename="payment/sale/customer/customer.h" />
+		<Unit filename="payment/sale/customer/customer.txt" />
+		<Unit filename="payment/sale/customer/structcustomer.h" />
+		<Unit filename="payment/sale/date.h" />
+		<Unit filename="payment/sale/item/item.h" />
+		<Unit filename="payment/sale/item/item.txt" />
+		<Unit filename="payment/sale/item/product/product.h" />
+		<Unit filename="payment/sale/item/product/product.txt" />
+		<Unit filename="payment/sale/item/product/structproduct.h" />
+		<Unit filename="payment/sale/item/structitem.h" />
+		<Unit filename="payment/sale/reglement.h" />
+		<Unit filename="payment/sale/sale.h" />
+		<Unit filename="payment/sale/sale.txt" />
+		<Unit filename="payment/sale/structpayment.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

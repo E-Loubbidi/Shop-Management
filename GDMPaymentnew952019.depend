@@ -1,0 +1,308 @@
+# depslib dependency file v1.0
+1557395504 source:c:\users\hp\desktop\gdmpaymentnew952019\main.c
+	<stdio.h>
+	"payment/sale/item/product/product.h"
+	"payment/sale/customer/customer.h"
+	"payment/sale/item/item.h"
+	"payment/sale/sale.h"
+	"payment/payment.h"
+
+1557395658 c:\users\hp\desktop\gdmpaymentnew952019\payment\sale\item\product\product.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structproduct.h"
+
+1557359814 c:\users\hp\desktop\gdmpaymentnew952019\payment\sale\item\product\structproduct.h
+
+1557395643 c:\users\hp\desktop\gdmpaymentnew952019\payment\sale\customer\customer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structcustomer.h"
+
+1556730160 c:\users\hp\desktop\gdmpaymentnew952019\payment\sale\customer\structcustomer.h
+
+1557384032 c:\users\hp\desktop\gdmpaymentnew952019\payment\sale\item\item.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"product/product.h"
+	"structitem.h"
+
+1557359814 c:\users\hp\desktop\gdmpaymentnew952019\payment\sale\item\structitem.h
+	"product/structproduct.h"
+
+1557395608 c:\users\hp\desktop\gdmpaymentnew952019\payment\sale\sale.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structpayment.h"
+
+1557393950 c:\users\hp\desktop\gdmpaymentnew952019\payment\sale\structpayment.h
+	"item/structitem.h"
+	"customer/structcustomer.h"
+	"date.h"
+	"reglement.h"
+
+1557394425 c:\users\hp\desktop\gdmpaymentnew952019\payment\sale\date.h
+
+1557394613 c:\users\hp\desktop\gdmpaymentnew952019\payment\sale\reglement.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"customer/customer.h"
+	"date.h"
+
+1557397719 c:\users\hp\desktop\gdmpaymentnew952019\payment\payment.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sale/structpayment.h"
+
+1557984961 source:c:\users\hp\desktop\gdm\gdmpaymentnew952019\main.c
+	<stdio.h>
+	"payment/sale/item/product/product.h"
+	"payment/sale/customer/customer.h"
+	"payment/sale/item/item.h"
+	"payment/sale/sale.h"
+	"payment/payment.h"
+
+1557395658 c:\users\hp\desktop\gdm\gdmpaymentnew952019\payment\sale\item\product\product.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structproduct.h"
+
+1557359814 c:\users\hp\desktop\gdm\gdmpaymentnew952019\payment\sale\item\product\structproduct.h
+
+1557395643 c:\users\hp\desktop\gdm\gdmpaymentnew952019\payment\sale\customer\customer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structcustomer.h"
+
+1556730160 c:\users\hp\desktop\gdm\gdmpaymentnew952019\payment\sale\customer\structcustomer.h
+
+1557384032 c:\users\hp\desktop\gdm\gdmpaymentnew952019\payment\sale\item\item.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"product/product.h"
+	"structitem.h"
+
+1557359814 c:\users\hp\desktop\gdm\gdmpaymentnew952019\payment\sale\item\structitem.h
+	"product/structproduct.h"
+
+1557395608 c:\users\hp\desktop\gdm\gdmpaymentnew952019\payment\sale\sale.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structpayment.h"
+
+1557393950 c:\users\hp\desktop\gdm\gdmpaymentnew952019\payment\sale\structpayment.h
+	"item/structitem.h"
+	"customer/structcustomer.h"
+	"date.h"
+	"reglement.h"
+
+1557394425 c:\users\hp\desktop\gdm\gdmpaymentnew952019\payment\sale\date.h
+
+1557394613 c:\users\hp\desktop\gdm\gdmpaymentnew952019\payment\sale\reglement.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"customer/customer.h"
+	"date.h"
+
+1557397719 c:\users\hp\desktop\gdm\gdmpaymentnew952019\payment\payment.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sale/structpayment.h"
+
+1557994380 source:c:\users\hp\desktop\nouveau dossier gdm\gdmpaymentnew952019\main.c
+	<stdio.h>
+	"payment/sale/item/product/product.h"
+	"payment/sale/customer/customer.h"
+	"payment/sale/item/item.h"
+	"payment/sale/sale.h"
+	"payment/payment.h"
+
+1557395658 c:\users\hp\desktop\nouveau dossier gdm\gdmpaymentnew952019\payment\sale\item\product\product.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structproduct.h"
+
+1557359814 c:\users\hp\desktop\nouveau dossier gdm\gdmpaymentnew952019\payment\sale\item\product\structproduct.h
+
+1557395643 c:\users\hp\desktop\nouveau dossier gdm\gdmpaymentnew952019\payment\sale\customer\customer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structcustomer.h"
+
+1556730160 c:\users\hp\desktop\nouveau dossier gdm\gdmpaymentnew952019\payment\sale\customer\structcustomer.h
+
+1557991640 c:\users\hp\desktop\nouveau dossier gdm\gdmpaymentnew952019\payment\sale\item\item.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"product/product.h"
+	"structitem.h"
+
+1557359814 c:\users\hp\desktop\nouveau dossier gdm\gdmpaymentnew952019\payment\sale\item\structitem.h
+	"product/structproduct.h"
+
+1557395608 c:\users\hp\desktop\nouveau dossier gdm\gdmpaymentnew952019\payment\sale\sale.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structpayment.h"
+
+1557393950 c:\users\hp\desktop\nouveau dossier gdm\gdmpaymentnew952019\payment\sale\structpayment.h
+	"item/structitem.h"
+	"customer/structcustomer.h"
+	"date.h"
+	"reglement.h"
+
+1557394425 c:\users\hp\desktop\nouveau dossier gdm\gdmpaymentnew952019\payment\sale\date.h
+
+1557394613 c:\users\hp\desktop\nouveau dossier gdm\gdmpaymentnew952019\payment\sale\reglement.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"customer/customer.h"
+	"date.h"
+
+1557397719 c:\users\hp\desktop\nouveau dossier gdm\gdmpaymentnew952019\payment\payment.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sale/structpayment.h"
+
+1558159283 source:c:\users\hp\desktop\app gdm\gdmpaymentnew952019\main.c
+	<stdio.h>
+	<conio.h>
+	"payment/sale/item/product/product.h"
+	"payment/sale/customer/customer.h"
+	"payment/sale/item/item.h"
+	"payment/sale/sale.h"
+	"payment/payment.h"
+
+1557395658 c:\users\hp\desktop\app gdm\gdmpaymentnew952019\payment\sale\item\product\product.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structproduct.h"
+
+1557359814 c:\users\hp\desktop\app gdm\gdmpaymentnew952019\payment\sale\item\product\structproduct.h
+
+1557395643 c:\users\hp\desktop\app gdm\gdmpaymentnew952019\payment\sale\customer\customer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structcustomer.h"
+
+1556730160 c:\users\hp\desktop\app gdm\gdmpaymentnew952019\payment\sale\customer\structcustomer.h
+
+1558173920 c:\users\hp\desktop\app gdm\gdmpaymentnew952019\payment\sale\item\item.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"product/product.h"
+	"structitem.h"
+
+1557359814 c:\users\hp\desktop\app gdm\gdmpaymentnew952019\payment\sale\item\structitem.h
+	"product/structproduct.h"
+
+1558173701 c:\users\hp\desktop\app gdm\gdmpaymentnew952019\payment\sale\sale.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structpayment.h"
+
+1557393950 c:\users\hp\desktop\app gdm\gdmpaymentnew952019\payment\sale\structpayment.h
+	"item/structitem.h"
+	"customer/structcustomer.h"
+	"date.h"
+	"reglement.h"
+
+1557394425 c:\users\hp\desktop\app gdm\gdmpaymentnew952019\payment\sale\date.h
+
+1558156595 c:\users\hp\desktop\app gdm\gdmpaymentnew952019\payment\sale\reglement.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"customer/customer.h"
+	"date.h"
+
+1557397719 c:\users\hp\desktop\app gdm\gdmpaymentnew952019\payment\payment.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sale/structpayment.h"
+
+1558162883 source:c:\users\hp\desktop\descktop\enset s1 s2 2018-2019\structure de données\structure de données projets 11062019\app gdm\gdmpaymentnew952019\main.c
+	<stdio.h>
+	<conio.h>
+	"payment/sale/item/product/product.h"
+	"payment/sale/customer/customer.h"
+	"payment/sale/item/item.h"
+	"payment/sale/sale.h"
+	"payment/payment.h"
+
+1557399258 c:\users\hp\desktop\descktop\enset s1 s2 2018-2019\structure de données\structure de données projets 11062019\app gdm\gdmpaymentnew952019\payment\sale\item\product\product.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structproduct.h"
+
+1557363414 c:\users\hp\desktop\descktop\enset s1 s2 2018-2019\structure de données\structure de données projets 11062019\app gdm\gdmpaymentnew952019\payment\sale\item\product\structproduct.h
+
+1557399243 c:\users\hp\desktop\descktop\enset s1 s2 2018-2019\structure de données\structure de données projets 11062019\app gdm\gdmpaymentnew952019\payment\sale\customer\customer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structcustomer.h"
+
+1556733760 c:\users\hp\desktop\descktop\enset s1 s2 2018-2019\structure de données\structure de données projets 11062019\app gdm\gdmpaymentnew952019\payment\sale\customer\structcustomer.h
+
+1558177520 c:\users\hp\desktop\descktop\enset s1 s2 2018-2019\structure de données\structure de données projets 11062019\app gdm\gdmpaymentnew952019\payment\sale\item\item.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"product/product.h"
+	"structitem.h"
+
+1557363414 c:\users\hp\desktop\descktop\enset s1 s2 2018-2019\structure de données\structure de données projets 11062019\app gdm\gdmpaymentnew952019\payment\sale\item\structitem.h
+	"product/structproduct.h"
+
+1558177301 c:\users\hp\desktop\descktop\enset s1 s2 2018-2019\structure de données\structure de données projets 11062019\app gdm\gdmpaymentnew952019\payment\sale\sale.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structpayment.h"
+
+1557397550 c:\users\hp\desktop\descktop\enset s1 s2 2018-2019\structure de données\structure de données projets 11062019\app gdm\gdmpaymentnew952019\payment\sale\structpayment.h
+	"item/structitem.h"
+	"customer/structcustomer.h"
+	"date.h"
+	"reglement.h"
+
+1557398025 c:\users\hp\desktop\descktop\enset s1 s2 2018-2019\structure de données\structure de données projets 11062019\app gdm\gdmpaymentnew952019\payment\sale\date.h
+
+1558160195 c:\users\hp\desktop\descktop\enset s1 s2 2018-2019\structure de données\structure de données projets 11062019\app gdm\gdmpaymentnew952019\payment\sale\reglement.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"customer/customer.h"
+	"date.h"
+
+1557401319 c:\users\hp\desktop\descktop\enset s1 s2 2018-2019\structure de données\structure de données projets 11062019\app gdm\gdmpaymentnew952019\payment\payment.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sale/structpayment.h"
+
